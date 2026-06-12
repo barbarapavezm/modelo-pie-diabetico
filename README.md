@@ -49,6 +49,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Reincidencia hospitalaria](imagenes_resultados/reincidencia_hospitalaria.png)
 
+### Reincidencia hospitalaria
+
+![Reincidencia hospitalaria](imagenes_resultados/reincidencia_hospitalaria.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
