@@ -57,6 +57,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Reincidencia por zona](imagenes_resultados/reincidencia_por_zona.png)
 
+### Distribución porcentual de pacientes por sexo
+
+![Distribución por sexo](imagenes_resultados/distribucion_por_sexo.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
