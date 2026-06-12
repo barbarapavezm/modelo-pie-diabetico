@@ -77,6 +77,9 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Tiempo de traslado al hospital](imagenes_resultados/tiempo_traslado_hospital.png)
 
+### Promedio de tiempo de traslado según zona
+
+![Tiempo promedio por zona](imagenes_resultados/tiempo_promedio_por_zona.png)
 
 ## Autora
 Bárbara Pavez
