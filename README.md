@@ -37,6 +37,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Mapa pacientes Puerto Montt](imagenes_resultados/mapa_pacientes_puerto_montt.png)
 
+### Distribución de pacientes por comuna
+
+![Pacientes por comuna](imagenes_resultados/pacientes_por_comuna.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
