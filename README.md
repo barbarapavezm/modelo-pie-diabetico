@@ -65,6 +65,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Sexo pacientes barras](imagenes_resultados/sexo_pacientes_barras.png)
 
+### Distribución de pacientes según tramo FONASA
+
+![Tramos FONASA](imagenes_resultados/fonasa_tramos.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
