@@ -61,6 +61,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Distribución por sexo](imagenes_resultados/distribucion_por_sexo.png)
 
+### Distribución de pacientes por sexo
+
+![Sexo pacientes barras](imagenes_resultados/sexo_pacientes_barras.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
