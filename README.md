@@ -41,6 +41,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Pacientes por comuna](imagenes_resultados/pacientes_por_comuna.png)
 
+### Clasificación territorial de pacientes
+
+![Clasificación urbano-rural](imagenes_resultados/clasificacion_urbano_rural.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
