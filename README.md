@@ -27,6 +27,17 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 - Transiciones diagnósticas mediante códigos CIE-10.
 - Modelos de redes bayesianas.
 
+## Ejemplos de resultados
+
+### Distribución espacial de pacientes en la Región de Los Lagos
+
+![Mapa pacientes región](imagenes_resultados/mapa_pacientes_region.png)
+
+### Distribución espacial de pacientes en Puerto Montt
+
+![Mapa pacientes Puerto Montt](imagenes_resultados/mapa_pacientes_puerto_montt.png)
+
+## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
 Pontificia Universidad Católica de Valparaíso
