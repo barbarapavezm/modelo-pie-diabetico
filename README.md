@@ -63,7 +63,7 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ### Distribución de pacientes por sexo
 
-![Sexo pacientes barras](imagenes_resultados/sexo_pacientes_barras.png)
+![Distribución de pacientes por sexo](imagenes_resultados/distribucion_barras_por_sexo.png)
 
 ### Distribución de pacientes según tramo FONASA
 
