@@ -73,6 +73,11 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Distancia al hospital](imagenes_resultados/distancia_hospital_km.png)
 
+### Distribución del tiempo de traslado al hospital
+
+![Tiempo de traslado al hospital](imagenes_resultados/tiempo_traslado_hospital.png)
+
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
