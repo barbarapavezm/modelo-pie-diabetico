@@ -45,6 +45,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Clasificación urbano-rural](imagenes_resultados/clasificacion_urbano_rural.png)
 
+### Reincidencia hospitalaria
+
+![Reincidencia hospitalaria](imagenes_resultados/reincidencia_hospitalaria.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
