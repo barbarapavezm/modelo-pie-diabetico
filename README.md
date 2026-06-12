@@ -53,6 +53,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Reincidencia hospitalaria](imagenes_resultados/reincidencia_hospitalaria.png)
 
+### Reincidencia según clasificación territorial
+
+![Reincidencia por zona](imagenes_resultados/reincidencia_por_zona.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
