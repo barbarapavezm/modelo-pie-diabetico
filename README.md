@@ -81,6 +81,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Tiempo promedio por zona](imagenes_resultados/tiempo_promedio_por_zona.png)
 
+### Grafo de transiciones diagnósticas
+
+![Grafo de transiciones diagnósticas](imagenes_resultados/grafo_transiciones_diagnosticas.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
