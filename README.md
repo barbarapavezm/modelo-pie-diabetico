@@ -69,6 +69,10 @@ Por esta razón, el repositorio contiene únicamente códigos, estructura del pr
 
 ![Tramos FONASA](imagenes_resultados/fonasa_tramos.png)
 
+### Distribución de distancia al hospital
+
+![Distancia al hospital](imagenes_resultados/distancia_hospital_km.png)
+
 ## Autora
 Bárbara Pavez
 Magíster en Simulación Computacional
