@@ -1,0 +1,22 @@
+"""
+Red bayesiana: Variables clínicas (por ejemplo: severidad, reincidencia, mortalidad).
+
+Requiere df_hosp con variables ya codificadas (por ejemplo, severidad, reingreso, etc.).
+"""
+
+from pgmpy.models import BayesianNetwork
+from pgmpy.estimators import MaximumLikelihoodEstimator
+
+# Definir estructura de la red (ejemplo)
+modelo = BayesianNetwork([
+    ("severidad", "reingreso"),
+    ("reingreso", "mortalidad")
+])
+
+# Ajustar parámetros con Máxima Verosimilitud
+modelo.fit(df_hosp, estimator=MaximumLikelihoodEstimator)
+
+# Guardar modelo (si lo deseas, en formato BIF)
+modelo.save("modelo_bayesiano.bif")
+
+print("Red bayesiana construida y guardada (opcionalmente).")
